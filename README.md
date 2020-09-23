@@ -1,6 +1,6 @@
 # Open Source Objective C
 
-## GNUstep / OpenStep / Cocoa compatible apps (Awesome GNUstep apps)
+## AppKit compatible apps (awesome GNUstep GUI apps)
 
 - [Cenon](http://www.cenon.info/)
 - [FisicaLab](https://www.gnu.org/software/fisicalab/)
