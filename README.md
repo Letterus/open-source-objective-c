@@ -9,6 +9,12 @@
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 
 
+## Great cross platform Objective C software not using AppKit
+
+- [Oolite](https://github.com/OoliteProject/oolite)
+- [SOGo](https://github.com/inverse-inc/sogo)
+
+
 ## Awesome Cocoa only apps written in mainly Objective C (well worth a try to port them to GNUstep)
 
 These should be sorted further to decide whether they have dependencies which can be ported as well or should be replaced (like `carbon.h`). Swift code may be upgraded to ObjC. ;-)
@@ -33,12 +39,6 @@ These should be sorted further to decide whether they have dependencies which ca
 - [NeoOffice](https://github.com/neooffice/NeoOffice)
 - [OpenOutliner](https://github.com/davidchisnall/OpenOutliner) - strongly needed replacement for OmniOutliner (proprietary)
 - [SimpleAgenda](https://github.com/poroussel/simpleagenda) - strongly needed replacement for 2Do.app and BusyCal (proprietary)
-
-
-## Great Objective C software not using AppKit
-
-- [Oolite](https://github.com/OoliteProject/oolite)
-- [SOGo](https://github.com/inverse-inc/sogo)
 
 
 ## Stuff people probably don't use anymore
