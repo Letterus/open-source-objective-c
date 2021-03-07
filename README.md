@@ -35,6 +35,12 @@ These should be sorted further to decide whether they have dependencies which ca
 - [SimpleAgenda](https://github.com/poroussel/simpleagenda) - strongly needed replacement for 2Do.app and BusyCal (proprietary)
 
 
+## Great Objective C software not using AppKit
+
+- [Oolite](https://github.com/OoliteProject/oolite)
+- [SOGo](https://github.com/inverse-inc/sogo)
+
+
 ## Stuff people probably don't use anymore
 
 - [svnX](https://github.com/grimmer0125/svnX)
