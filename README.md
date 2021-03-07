@@ -1,6 +1,6 @@
 # Open Source Objective C
 
-## AppKit compatible apps (awesome GNUstep GUI apps)
+## Cross platform apps (awesome GNUstep GUI apps)
 
 - [Cenon](http://www.cenon.info/)
 - [FisicaLab](https://www.gnu.org/software/fisicalab/)
@@ -9,7 +9,7 @@
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 
 
-## Awesome Cocoa apps written in mainly Objective C (well worth a try to port them to GNUstep)
+## Awesome Cocoa only apps written in mainly Objective C (well worth a try to port them to GNUstep)
 
 These should be sorted further to decide whether they have dependencies which can be ported as well or should be replaced (like `carbon.h`). Swift code may be upgraded to ObjC. ;-)
 
