@@ -23,6 +23,7 @@ These should be sorted further to decide whether they have dependencies which ca
 - [BibDesk](https://bibdesk.sourceforge.io/)
 - [Cocoa Rest Client](https://github.com/mmattozzi/cocoa-rest-client)
 - [Colloquy](https://github.com/colloquy/colloquy)
+- [Eloquent](https://github.com/mdbergmann/Eloquent)
 - [GitX](https://github.com/rowanj/gitx)
 - [MacDown](https://github.com/MacDownApp/macdown)
 - [MacPass](https://github.com/MacPass/MacPass)
