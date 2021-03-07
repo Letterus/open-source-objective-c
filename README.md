@@ -28,7 +28,7 @@ These should be sorted further to decide whether they have dependencies which ca
 - [Vienna RSS](https://github.com/ViennaRSS/vienna-rss)
 
 
-## Great Cocoa based app ideas that should be developed further
+## Great Cocoa/GNUstep based app ideas that should be developed further (and/or ported)
 
 - [NeoOffice](https://github.com/neooffice/NeoOffice)
 - [OpenOutliner](https://github.com/davidchisnall/OpenOutliner) - strongly needed replacement for OmniOutliner (proprietary)
