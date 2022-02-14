@@ -1,4 +1,4 @@
-# Metalist with lists of Open Source Objective C software
+# Metalist with lists of Open Source Objective-C software
 
 ## Mac/Cocoa Apps
 
