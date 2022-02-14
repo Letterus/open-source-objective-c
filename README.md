@@ -1,6 +1,25 @@
 # Open Source Objective C
 
-## Cross platform apps (awesome GNUstep GUI apps)
+These lists focus on simple solutions that are portable or could potentially be used as code base for portable code.
+
+Portable code means code either compatible with [GNUstep](https://github.com/gnustep/) or [ObjFW](https://github.com/objfw/) (recommended).
+
+## iOS / iPhone, iPad OS / CocoaTouch Apps
+
+- [Mumble](https://github.com/mumble-voip/mumble-iphoneos)
+
+## iOS Libs
+
+- [Couchbase Lite iOS](https://github.com/couchbase/couchbase-lite-ios)
+- [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access
+- [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
+- [MumbleKit](https://github.com/mumble-voip/mumblekit)
+
+## ObjFW Libs
+
+See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libraries&p
+
+## Cross platform apps using AppKit (GNUstep GUI apps)
 
 - [Cenon](http://www.cenon.info/)
 - [FisicaLab](https://www.gnu.org/software/fisicalab/)
@@ -9,13 +28,13 @@
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 
 
-## Great cross platform Objective C software not using AppKit
+## Cross platform Objective C software not using AppKit
 
 - [Oolite](https://github.com/OoliteProject/oolite)
 - [SOGo](https://github.com/inverse-inc/sogo)
 
 
-## Awesome Cocoa only apps written in mainly Objective C (well worth a try to port them to GNUstep)
+## Awesome Cocoa only apps written in mainly Objective C (well worth a try to port them to GNUstep or ObjFW)
 
 These should be sorted further to decide whether they have dependencies which can be ported as well or should be replaced (like `carbon.h`). Swift code may be upgraded to ObjC. ;-)
 
