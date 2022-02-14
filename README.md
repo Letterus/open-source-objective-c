@@ -1,4 +1,4 @@
-# Open Source Objective C
+# Open Source Objective-C
 
 These lists focus on simple solutions that are portable or could potentially be used as code base for portable code.
 
@@ -28,13 +28,13 @@ See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libr
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 
 
-## Cross platform Objective C software not using AppKit
+## Cross platform Objective-C software not using AppKit
 
 - [Oolite](https://github.com/OoliteProject/oolite)
 - [SOGo](https://github.com/inverse-inc/sogo)
 
 
-## Awesome Cocoa only apps written in mainly Objective C (well worth a try to port them to GNUstep or ObjFW)
+## Awesome Cocoa only apps written in mainly Objective-C (well worth a try to port them to GNUstep or ObjFW)
 
 These should be sorted further to decide whether they have dependencies which can be ported as well or should be replaced (like `carbon.h`). Swift code may be upgraded to ObjC. ;-)
 
