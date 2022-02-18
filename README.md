@@ -19,6 +19,10 @@ Portable code means code either compatible with [GNUstep](https://github.com/gnu
 
 See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libraries&p
 
+## Open Source Cocoa libs
+
+- [AJR Database](https://github.com/tdmartin102/ajrdatabase) - JAEOF: "Just Another EOF"
+
 ## Cross platform apps using AppKit (GNUstep GUI apps)
 
 - [Cenon](http://www.cenon.info/)
