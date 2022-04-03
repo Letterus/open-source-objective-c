@@ -22,6 +22,7 @@ See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libr
 ## Open Source Cocoa libs
 
 - [AJR Database](https://github.com/tdmartin102/ajrdatabase) - JAEOF: "Just Another EOF"
+- [CoreObject](https://github.com/etoile/CoreObject) - Distributed version control + object persistence framework
 
 ## Cross platform apps using AppKit (GNUstep GUI apps)
 
