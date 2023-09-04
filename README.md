@@ -26,6 +26,7 @@ See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libr
 
 - [AJR Database](https://github.com/tdmartin102/ajrdatabase) - JAEOF: "Just Another EOF", including a new implementation of EOModeler
 - [CoreObject](https://github.com/etoile/CoreObject) - Distributed version control + object persistence framework
+- [PostgreSQL-Kit](https://github.com/djthorpe/postgresql-kit) - Frameworks for integrating a PostgreSQL database with your Mac and iOS projects, including example Apps for managing PostgreSQL and its data
 
 ## Cross platform apps using AppKit (GNUstep GUI apps)
 
@@ -49,6 +50,7 @@ These should be sorted further to decide whether they have dependencies which ca
 - [Cocoa Rest Client](https://github.com/mmattozzi/cocoa-rest-client)
 - [Colloquy](https://github.com/colloquy/colloquy)
 - [Eloquent](https://github.com/mdbergmann/Eloquent)
+- [GitUp](https://github.com/git-up/GitUp)
 - [GitX](https://github.com/rowanj/gitx)
 - [MacDown](https://github.com/MacDownApp/macdown)
 - [MacPass](https://github.com/MacPass/MacPass)
