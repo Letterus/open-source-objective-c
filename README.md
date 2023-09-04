@@ -56,6 +56,7 @@ These should be sorted further to decide whether they have dependencies which ca
 - [TextMate](https://github.com/textmate/textmate)
 - [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 - [TimeTracker](https://github.com/Letterus/app-time-tracker)
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) (sequel to Sequel Pro)
 - [Sequel Pro](https://github.com/sequelpro/sequelpro)
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit)
 - [Vienna RSS](https://github.com/ViennaRSS/vienna-rss)
