@@ -10,10 +10,13 @@ Portable code means code either compatible with [GNUstep](https://github.com/gnu
 
 ## iOS Libs
 
+- [AMPLI-SYNC](https://github.com/sqlite-sync/SQLite-sync.com/tree/master) - a framework for synchronizing data between a Sqlite database and an MS SQL/MySQL/Oracle/PostgreSQL database
 - [Couchbase Lite iOS](https://github.com/couchbase/couchbase-lite-ios)
 - [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access
 - [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
+- [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch
 - [MumbleKit](https://github.com/mumble-voip/mumblekit)
+- [RestKit](https://github.com/RestKit/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X 
 
 ## ObjFW Libs
 
@@ -21,7 +24,7 @@ See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libr
 
 ## Open Source Cocoa libs
 
-- [AJR Database](https://github.com/tdmartin102/ajrdatabase) - JAEOF: "Just Another EOF"
+- [AJR Database](https://github.com/tdmartin102/ajrdatabase) - JAEOF: "Just Another EOF", including a new implementation of EOModeler
 - [CoreObject](https://github.com/etoile/CoreObject) - Distributed version control + object persistence framework
 
 ## Cross platform apps using AppKit (GNUstep GUI apps)
@@ -32,12 +35,10 @@ See https://github.com/objfw and https://objfw.nil.im/wiki?name=Third-party+Libr
 - [Grr (Günther's Rss Reader)](http://www.nongnu.org/gap/grr/index.html)
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 
-
 ## Cross platform Objective-C software not using AppKit
 
 - [Oolite](https://github.com/OoliteProject/oolite)
 - [SOGo](https://github.com/inverse-inc/sogo)
-
 
 ## Awesome Cocoa only apps written in mainly Objective-C (well worth a try to port them to GNUstep or ObjFW)
 
@@ -55,6 +56,7 @@ These should be sorted further to decide whether they have dependencies which ca
 - [TextMate](https://github.com/textmate/textmate)
 - [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 - [TimeTracker](https://github.com/Letterus/app-time-tracker)
+- [Sequel Pro](https://github.com/sequelpro/sequelpro)
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit)
 - [Vienna RSS](https://github.com/ViennaRSS/vienna-rss)
 
