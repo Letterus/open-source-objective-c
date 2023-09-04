@@ -10,7 +10,7 @@ Portable code means code either compatible with [GNUstep](https://github.com/gnu
 
 ## iOS Libs
 
-- [AMPLI-SYNC](https://github.com/sqlite-sync/SQLite-sync.com/tree/master) - a framework for synchronizing data between a Sqlite database and an MS SQL/MySQL/Oracle/PostgreSQL database
+- [AMPLI-SYNC](https://github.com/sqlite-sync/SQLite-sync.com/tree/master) - a framework for synchronizing data between a Sqlite database and an MS SQL/MySQL/Oracle/PostgreSQL database (license missing)
 - [Couchbase Lite iOS](https://github.com/couchbase/couchbase-lite-ios)
 - [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access
 - [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
